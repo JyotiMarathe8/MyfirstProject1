@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Myfirstproject1": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\C_SharpPrograms\\MyfirstProject1"
+    }
+  }
+}
